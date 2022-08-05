@@ -1,0 +1,5 @@
+Google: Google uses a tech stack that consists of Python, Java, Android SDK, Go, C++, Angular JS, Kubernetes, and Tensorflow
+
+Facebook: Facebook uses a tech stack that consists of JavaScript, HTML, CSS, PHP, and ReactJS
+
+Netflix: Netflix uses a tech stack that consists of Java, Javascript, Python, Kotlin, and Swift.
